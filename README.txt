@@ -1,0 +1,1 @@
+Add your own images named day1.jpg ... day6.jpg into the images folder.
